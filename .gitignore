@@ -1,0 +1,8 @@
+# ignore these folders
+.idea/
+project/
+scalastyle/
+target/
+
+# except src directory
+!src/
